@@ -23,6 +23,9 @@
 @import "./contato/contato.css";
 @import "./contato/lojas.css";
 
+/*orçamento*/
+@import "./orçamento/orcamento.css";
+
 /*Bicicletas*/
 @import "./bicicletas/bicicletas-lista.css";
 @import "./bicicletas/bicicletas.css";
